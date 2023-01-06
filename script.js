@@ -54,6 +54,5 @@ if (userInput === "scissors") {
     }
 }
 }
-console.log("Your number of wins is " + userWins);
-console.log("Your number of losses is " + userLosses);
-console.log("The number of ties is " + ties);
+alert("Your number of wins is " + userWins + ", your number of losses is " + userLosses + " and your number of ties is " + ties);
+
